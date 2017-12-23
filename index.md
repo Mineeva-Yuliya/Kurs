@@ -4,9 +4,8 @@
     <meta charset="utf-8">
     <title>Gagarin It-school</title>  
   </head>
-  <body style="background-image: url"(../img/photo_webinar2.jpg)>
-  </body>
   <body>
+    <style="background-image: url"(../img/photo_webinar2.jpg)>
     <header class="site-header">
       <div class="container">
         <div class="logo">
@@ -40,8 +39,7 @@
       </div>
     </header>  
     <main class="container">
-      <body style="background-image: url"(../img/photo_webinar2.jpg)>        
-      </body>
+      <style="background-image: url"(../img/photo_webinar2.jpg)>
       <div class="big-logo"> 
         <img src="img/big_logo.png" width="292" height="287" alt="Gagarin It-school">
       </div> 
