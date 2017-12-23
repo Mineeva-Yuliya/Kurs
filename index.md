@@ -39,7 +39,7 @@
     </header>  
     <main class="container"
       <div class="big-logo"> 
-        <img src"img/big_logo.png" width="297" height="287" alt "Gagarin It-school">
+        <img src"img/big_logo.png" width="292" height="287" alt "Gagarin It-school">
       </div> 
       <h1>Самое доступное IT-образование</h1>
       <h2>Для людей любого возраста и с любой базой знаний</h2>
