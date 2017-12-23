@@ -55,9 +55,9 @@
         <a href="#">
           <img src="img/next-hover.png" width="51" height="51">
         </a>
-      </div>     
-     <div class="features">
+      </div> 
     </main>
+     <div class="features">
        <h2>Наши направления</h2>
          <img class="theory-design" src="img/theory_design.png" width="214" height="235" alt="Теория дизайна">
            <p class="index">Теория дизайна</p>
