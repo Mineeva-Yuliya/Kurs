@@ -50,12 +50,12 @@
       <div class="free-consultation">
           <a class="consultation" href="#">Бесплатная консультация</a>
       </div> 
-      <div> 
+      <div>         
+        <a href="#">        
+          <img src="img/prev.png" width="51" height="51">
+        </a>
         <a href="#">
           <img src="img/next-hover.png" width="51" height="51">
-        <a href="#">
-        </a>
-          <img src="img/prev.png" width="51" height="51">
         </a>
       </div>     
      <div class="features">
