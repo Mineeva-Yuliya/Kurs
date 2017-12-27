@@ -101,6 +101,7 @@
              <p class="specification-subtitle">Бизнес образование</p>
              <p class="specification-content">Опытные бизнесмены покажут на личном примере, как продавать свои услуги на рынке труда. Бизнес-тренера помогут открыть свою студию и быть конкурентоспособным в сфере IT</p>
          </div>
+        </div>
     </main>
     <div class="progress">
       <div class="clock">
