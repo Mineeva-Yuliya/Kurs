@@ -8,7 +8,7 @@
     <style="background-image: url"(../img/photo_webinar2.jpg)>
     <header class="site-header">
       <div class="container">
-        <div class="logo">
+        <figure class="logo">
           <img src="img/logo.png" width="210" height="81">
         </div>
         <nav class="main-navigation">
@@ -55,8 +55,7 @@
         <a href="#">
           <img src="img/next-hover.png" width="51" height="51">
         </a>
-      </div> 
-    </main>
+      </div>     
      <div class="features">
        <h2>Наши направления</h2>
          <img class="theory-design" src="img/theory_design.png" width="214" height="235" alt="Теория дизайна">
@@ -85,5 +84,41 @@
 Назвать этот проект мы решили именем человека с большой буквы, летчика-космонавта - Юрия Алексеевича Гагарина.</p>
               <p>Вчера IT-школа НГУ, сегодня GAGARIN IT-shcool. Поехали!</p>
      </div>
+     <div class="specification">
+       <h3 class="specification-title">Почему мы</h3> 
+         <div class="specification-mentor">   
+           <img class="mentor" src="img/Mentors.png" width="162" height="162" alt="Mentors">
+            <p class="specification-subtitle">Система менторства</p>
+            <p class="specification-content">Менторы - практикующие Middle/Junior специалисты, выступающие наставниками для 3х студентов. Менторы ассистируют преподавателю и направляют вас в обучении, помогают и отвечают на вопросы.</p>
+         </div>
+         <div class="specification-price">  
+           <img class="prices" src="img/Prices.png" width="162" height="162" alt="Prices">
+             <p class="specification-subtitle">Демократические цены</p>
+             <p class="specification-content">Наша цель - предоставить IT образование, которое улучшает жизнь людей и меняет общество. Помочь каждому раскрыть свой потенциал в IT индустрии за вменяемую цену.</p>
+         </div>
+         <div class="specification-education">
+           <img class="education" src="img/education.png" width="162" height="162" alt="Education">
+             <p class="specification-subtitle">Бизнес образование</p>
+             <p class="specification-content">Опытные бизнесмены покажут на личном примере, как продавать свои услуги на рынке труда. Бизнес-тренера помогут открыть свою студию и быть конкурентоспособным в сфере IT</p>
+         </div>
+    </main>
+    <div class="progress">
+      <div class="clock">
+        <p class="progress-number">940<p/>
+        <p class="progress-lectures">Часов лекций</p>
+      </div>
+      <div class="student">
+        <p class="progress-number">146<p/>
+        <p class="progress-course">Студентов прошли курсы</p>
+      </div>
+      <div class="teacher">
+        <p class="progress-number">15<p/>
+        <p class="progress-teacher">Практикующих преподавателей</p>
+      </div>
+      <div class="case">
+        <p class="progress-number">90<p/>
+        <p class="progress-case">Реальных кейсов</p>
+      </div>     
+    </div> 
   </body>
 </html>
