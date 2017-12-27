@@ -91,7 +91,7 @@
             <p class="specification-subtitle">Система менторства</p>
             <p class="specification-content">Менторы - практикующие Middle/Junior специалисты, выступающие наставниками для 3х студентов. Менторы ассистируют преподавателю и направляют вас в обучении, помогают и отвечают на вопросы.</p>
          </div>
-         <div class="specification-price"  
+         <div class="specification-price">  
            <img class="prices" src="img/Prices.png" width="162" height="162" alt="Prices">
              <p class="specification-subtitle">Демократические цены</p>
              <p class="specification-content">Наша цель - предоставить IT образование, которое улучшает жизнь людей и меняет общество. Помочь каждому раскрыть свой потенциал в IT индустрии за вменяемую цену.</p>
@@ -101,7 +101,6 @@
              <p class="specification-subtitle">Бизнес образование</p>
              <p class="specification-content">Опытные бизнесмены покажут на личном примере, как продавать свои услуги на рынке труда. Бизнес-тренера помогут открыть свою студию и быть конкурентоспособным в сфере IT</p>
          </div>
-        </div>
     </main>
     <div class="progress">
       <div class="clock">
