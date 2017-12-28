@@ -124,23 +124,23 @@
     <section class="webinar">
       <h3 class="webinar-title">Вебинары</h3>
       <div class="webinar-photo1">
-        <img class="photo_webinar1" src="img/photo_webinar1.png" width="264" height="229" alt="Photo webinar">
+        <img class="photo_webinar1" src="img/photo_webinar1.jpg" width="264" height="229" alt="Photo webinar">
         <img class="view_hover" src="img/view_hover.png" width="71" height="71"> 
           <p class="webinar-subtitle">Как стать востребованным фрилансером</p>
           <time datetime="2016-10-11">11.10.2016</time>
       </div> 
       <div class="webinar-photo2">
-        <img class="photo_webinar2" src="img/photo_webinar2.png" width="264" height="229" alt="Photo webinar">
+        <img class="photo_webinar2" src="img/photo_webinar2.jpg" width="264" height="229" alt="Photo webinar">
           <p class="webinar-subtitle">Как открыть веб-студию</p>
           <time datetime="2016-10-29">29.10.2016</time>
       </div> 
       <div class="webinar-photo3">
-        <img class="photo_webinar3" src="img/photo_webinar3.png" width="264" height="229" alt="Photo webinar">
+        <img class="photo_webinar3" src="img/photo_webinar3.jpg" width="264" height="229" alt="Photo webinar">
           <p class="webinar-subtitle">Продвижение бизнеса в Instagram</p>
           <time datetime="2016-11-04">04.11.2016</time>
       </div> 
       <div class="webinar-photo4">
-        <img class="photo_webinar4" src="img/photo_webinar4.png" width="264" height="229" alt="Photo webinar">
+        <img class="photo_webinar4" src="img/photo_webinar4.jpg" width="264" height="229" alt="Photo webinar">
           <p class="webinar-subtitle">Таргетинг во Вконтакте</p>
           <time datetime="2016-11-13">13.11.2016</time>
       </div> 
@@ -160,10 +160,10 @@
           <a href="#">        
             <img src="img/prev.png" width="51" height="51">
           </a>
-            <img class="photo_reviews5" src="img/photo_reviews5.png" width="143" height="142" alt="Photo">
-            <img class="photo_reviews4" src="img/photo_reviews4.png" width="143" height="142" alt="Photo">
-            <img class="photo_reviews3" src="img/photo_reviews3.png" width="143" height="142" alt="Photo">
-            <img class="photo_reviews2" src="img/photo_reviews2.png" width="143" height="142" alt="Photo">          
+            <img class="photo_reviews5" src="img/photo_reviews5.jpg" width="143" height="142" alt="Photo">
+            <img class="photo_reviews4" src="img/photo_reviews4.jpg" width="143" height="142" alt="Photo">
+            <img class="photo_reviews3" src="img/photo_reviews3.jpg" width="143" height="142" alt="Photo">
+            <img class="photo_reviews2" src="img/photo_reviews2.jpg" width="143" height="142" alt="Photo">          
           <a href="#">
             <img src="img/next-hover.png" width="51" height="51">
           </a>
