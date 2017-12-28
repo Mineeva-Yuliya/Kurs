@@ -10,14 +10,15 @@
       <div class="container">
         <figure class="logo">
           <img src="img/logo.png" width="210" height="81">
-        </div>
+        </figure>
+      </div>
         <nav class="main-navigation">
           <ul>
             <li>
               <a href="#">Курсы</a>
             </li>
             <li>
-            <a href="#">О нас</a>
+              <a href="#">О нас</a>
             </li>
             <li>
               <a href="#">Вебинары</a>
@@ -40,43 +41,43 @@
     </header>  
     <main class="container">
       <style="background-image: url"(../img/photo_webinar2.jpg)>
-      <div class="big-logo"> 
-        <img src="img/big_logo.png" width="292" height="287" alt="Gagarin It-school">
-      </div> 
-      <h1>Самое доступное IT-образование</h1>
-      <h2>Для людей любого возраста и с любой базой знаний</h2>
-      <div class="free-consultation">
+        <div class="big-logo"> 
+          <img src="img/big_logo.png" width="292" height="287" alt="Gagarin It-school">
+        </div> 
+          <h1>Самое доступное IT-образование</h1>
+            <h2>Для людей любого возраста и с любой базой знаний</h2>
+        <div class="free-consultation">
           <a class="consultation" href="#">Бесплатная консультация</a>
-      </div> 
-      <div>         
-        <a href="#">        
-          <img src="img/prev.png" width="51" height="51">
-        </a>
-        <a href="#">
-          <img src="img/next-hover.png" width="51" height="51">
-        </a>
-      </div>     
-     <div class="features">
-       <h2>Наши направления</h2>
-         <img class="theory-design" src="img/theory_design.png" width="214" height="235" alt="Теория дизайна">
-           <p class="index">Теория дизайна</p>
-         <img class="motion-design" src="img/motion_design.png" width="214" height="235" alt="Motion design">
-           <p class="index">Motion design</p>
-         <img class="android" src="img/android.png" width="214" height="235" alt="Android">
-           <p class="index">Android</p>
-         <img class="ios" src="img/ios.png" width="214" height="235" alt="IOS">
-           <p class="index">IOS</p>
-         <img class="frontend" src="img/frontend.png" width="214" height="235" alt="Frontend">
-           <p class="index">Frontend</p>
-         <img class="javascript" src="img/javascript.png" width="214" height="235" alt="Javascript">
-           <p class="index">Javascript</p>
-         <img class="wordpress" src="img/wordpress.png" width="214" height="235" alt="Wordpress">
-           <p class="index">Wordpress</p>
-         <img class="php" src="img/php.png" width="214" height="235" alt="PHP">
-           <p class="index">PHP</p>
-     </div>
-     <div class="info">
-        <div class="big-logo-info"> 
+        </div> 
+        <div>         
+          <a href="#">        
+            <img src="img/prev.png" width="51" height="51">
+          </a>
+          <a href="#">
+            <img src="img/next-hover.png" width="51" height="51">
+          </a>
+        </div>     
+        <div class="features">
+          <h2>Наши направления</h2>
+           <img class="theory-design" src="img/theory_design.png" width="214" height="235" alt="Теория дизайна">
+             <p class="index">Теория дизайна</p>
+           <img class="motion-design" src="img/motion_design.png" width="214" height="235" alt="Motion design">
+             <p class="index">Motion design</p>
+           <img class="android" src="img/android.png" width="214" height="235" alt="Android">
+             <p class="index">Android</p>
+           <img class="ios" src="img/ios.png" width="214" height="235" alt="IOS">
+             <p class="index">IOS</p>
+           <img class="frontend" src="img/frontend.png" width="214" height="235" alt="Frontend">
+             <p class="index">Frontend</p>
+           <img class="javascript" src="img/javascript.png" width="214" height="235" alt="Javascript">
+             <p class="index">Javascript</p>
+           <img class="wordpress" src="img/wordpress.png" width="214" height="235" alt="Wordpress">
+             <p class="index">Wordpress</p>
+           <img class="php" src="img/php.png" width="214" height="235" alt="PHP">
+             <p class="index">PHP</p>
+         </div>
+       <div class="info">
+         <div class="big-logo-info"> 
           <img src="img/big_logo.png" width="292" height="287" alt="Gagarin It-school">
             <h2>О нас</h2>
               <p>Этот мир стремителен и постоянно толкает нас к новым свершениям и открытиям. Великие спортсмены, ученые и бизнесмены стали известными только потому, что застой для них хуже провала и неудач. Нам так же невыносимо топтаться на месте и мы выходим за рамки одного университета, за рамки одного города.</p>
@@ -119,6 +120,59 @@
         <p class="progress-number">90<p/>
         <p class="progress-case">Реальных кейсов</p>
       </div>     
-    </div> 
+    </div>
+    <section class="webinar">
+      <h3 class="webinar-title">Вебинары</h3>
+      <div class="webinar-photo1">
+        <img class="photo_webinar1" src="img/photo_webinar1.png" width="264" height="229" alt="Photo webinar">
+        <img class="view_hover" src="img/view_hover.png" width="71" height="71"> 
+          <p class="webinar-subtitle">Как стать востребованным фрилансером</p>
+          <time datetime="2016-10-11">11.10.2016</time>
+      </div> 
+      <div class="webinar-photo2">
+        <img class="photo_webinar2" src="img/photo_webinar2.png" width="264" height="229" alt="Photo webinar">
+          <p class="webinar-subtitle">Как открыть веб-студию</p>
+          <time datetime="2016-10-29">29.10.2016</time>
+      </div> 
+      <div class="webinar-photo3">
+        <img class="photo_webinar3" src="img/photo_webinar3.png" width="264" height="229" alt="Photo webinar">
+          <p class="webinar-subtitle">Продвижение бизнеса в Instagram</p>
+          <time datetime="2016-11-04">04.11.2016</time>
+      </div> 
+      <div class="webinar-photo4">
+        <img class="photo_webinar4" src="img/photo_webinar4.png" width="264" height="229" alt="Photo webinar">
+          <p class="webinar-subtitle">Таргетинг во Вконтакте</p>
+          <time datetime="2016-11-13">13.11.2016</time>
+      </div> 
+    </section>
+    <div class="reviews">
+      <h3 class="reviews-title">Отзывы</h3>
+        <figure class="image-quotes">
+          <img src="img/view_hover.png" width="71" height="71">
+        </figure>
+        <div>
+          <p>Очень крутой и познавательный курс. Спасибо за советы и обучение. Этот курс дает отличный старт для дальнейшего обучения и продвижения. Было весело, дружно и поучительно!</p>
+          <p class="reviews-name">Алексей Бачурин</p>
+          <p class="reviews-profi">UX Design</p> 
+          <img class="photo_reviews1" src="img/photo_reviews1.png" width="143" height="142" alt="Photo">          
+        </div> 
+        <div>         
+          <a href="#">        
+            <img src="img/prev.png" width="51" height="51">
+          </a>
+            <img class="photo_reviews5" src="img/photo_reviews5.png" width="143" height="142" alt="Photo">
+            <img class="photo_reviews4" src="img/photo_reviews4.png" width="143" height="142" alt="Photo">
+            <img class="photo_reviews3" src="img/photo_reviews3.png" width="143" height="142" alt="Photo">
+            <img class="photo_reviews2" src="img/photo_reviews2.png" width="143" height="142" alt="Photo">          
+          <a href="#">
+            <img src="img/next-hover.png" width="51" height="51">
+          </a>
+        </div>
+        <div class="invite">
+          <p class="invite-title">Лучшие студенты получают реальные заказы</p>
+          <p class="invite-text">Во время обучения студенты берут заказы от наших партнеров и нарабатывают первые кейсы. Трудоустройство выпускников - наша главная цель. Мы не даем теорию, а работаем над "живыми" проектами.</p>
+        <button class="btn-course">Подобрать курс</button>
+      </div>      
+    </div>
   </body>
 </html>
