@@ -148,7 +148,7 @@
     <div class="reviews">
       <h3 class="reviews-title">Отзывы</h3>
         <figure class="image-quotes">
-          <img src="img/view_hover.png" width="71" height="71">
+          <img src="img/image_quotes.png" width="44" height="30">
         </figure>
         <div>
           <p>Очень крутой и познавательный курс. Спасибо за советы и обучение. Этот курс дает отличный старт для дальнейшего обучения и продвижения. Было весело, дружно и поучительно!</p>
